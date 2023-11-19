@@ -1,0 +1,75 @@
+/* Add your CSS styles here */
+/* This is just an example, style as per your preference */
+body {
+  font-family: Arial, sans-serif;
+  background-color:whitesmoke;
+}
+
+h1 {
+  text-align: center;
+}
+
+input[type="text"], button {
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+.input{
+    border-radius: 10px;
+    margin:auto;
+    border-color: black;
+    height:400px;
+    width:800px;
+    text-align: center;
+
+    background-color: #fc888c;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 5vw;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.button {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 3vw;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.tasks{
+    border-radius: 10px;
+    margin:auto;
+    border-color: black;
+    height:400px;
+    width:800px;
+    text-align: center;
+    
+font-size: 3vw;
+    background-color: #f3dcd4;
+
+}
